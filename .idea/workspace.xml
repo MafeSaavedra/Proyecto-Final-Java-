@@ -4,28 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9f2f13d-3494-46a7-89bc-ef887da9a868" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProyectoFinalJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Escuela.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Estudiante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gestionfiguras/Circulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gestionfiguras/Dibujable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gestionfiguras/Figura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gestionfiguras/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gestionfiguras/Movible.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gestionfiguras/Rectangulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gestionfiguras/Triangulo.java" afterDir="false" />
+    <list default="true" id="f9f2f13d-3494-46a7-89bc-ef887da9a868" name="Changes" comment="proyectofinal">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../ProyectoFinalJava\exportToHTML" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -55,7 +43,8 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/ProyectoFinalJava"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -67,6 +56,39 @@
       <option name="presentableId" value="Default" />
       <updated>1728501676366</updated>
     </task>
+    <task id="LOCAL-00001" summary="proyectofinal">
+      <option name="closed" value="true" />
+      <created>1728505841766</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728505841766</updated>
+    </task>
+    <task id="LOCAL-00002" summary="proyectofinal">
+      <option name="closed" value="true" />
+      <created>1728505873782</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728505873782</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ProyectoFinal" />
+    <MESSAGE value="proyectofinal" />
+    <option name="LAST_COMMIT_MESSAGE" value="proyectofinal" />
   </component>
 </project>
